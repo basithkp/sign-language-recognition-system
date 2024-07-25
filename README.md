@@ -1,8 +1,8 @@
 # Sign Language Recognition System
 
 This repository contains the code and documentation for the **Sign Language Recognition System**, a project developed as part of the Master of Computer Applications degree at Pondicherry University.
-![App Screenshot](https://github.com/basithkp/sign-language-recognition-system/raw/master/tree/main/Screenshots/S2.png)
-![App Screenshot](https://github.com/basithkp/sign-language-recognition-system/raw/master/tree/main/Screenshots/S3.png)
+![App Screenshot](https://github.com/basithkp/sign-language-recognition-system/raw/master/Screenshots/S2.png)
+![App Screenshot](https://github.com/basithkp/sign-language-recognition-system/raw/master/Screenshots/S3.png)
 ## Project Overview
 
 The Sign Language Recognition System is designed to help individuals who are deaf or hard of hearing communicate more effectively with those who do not understand sign language. This system utilizes advanced technologies in computer vision, deep learning, and natural language processing to translate sign language gestures into spoken or written language in real time.
